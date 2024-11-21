@@ -29,4 +29,4 @@ Whether you're a seasoned investor or new to the stock market, this app provides
 
 # Footer
 st.markdown("---")
-st.markdown("© 2024 Stock Prediction App. All Rights Reserved.")
+st.markdown("© 2023 Stock Prediction App. All Rights Reserved.")
